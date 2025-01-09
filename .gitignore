@@ -2,3 +2,9 @@
 node_modules
 .tmp
 npm-debug.log
+.terraform/
+logs/
+terraform.tfstate
+terraform.tfstate.backup
+*.lock.info
+*.hcl
